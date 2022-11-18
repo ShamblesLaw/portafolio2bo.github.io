@@ -40,4 +40,9 @@ header{
     background-color: rgb(145, 211, 255);
     max-height: 100px;
     height: 100px;
+    text-align: center;
+}
+
+#final p{
+    padding-top: 30px;
 }
